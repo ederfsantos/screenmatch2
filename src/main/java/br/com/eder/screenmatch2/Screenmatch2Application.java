@@ -19,7 +19,9 @@ public class Screenmatch2Application implements CommandLineRunner {
 		var json = consumoApi.obterDados("https://www.omdbapi.com/?t=er&Season=1&apikey=2389347b");
 		System.out.println(json);
 		//"https://coffee.alexflipnote.dev/random.json" imagem de cafe
-		json = consumoApi.obterDados("https://coffee.alexflipnote.dev/random.json");
-		System.out.println(json);
+//		json = consumoApi.obterDados("https://coffee.alexflipnote.dev/random.json");
+//		System.out.println(json);
+
+
 	}
 }
