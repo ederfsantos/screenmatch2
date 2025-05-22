@@ -1,0 +1,1686 @@
+[ {
+  "temporada" : 1,
+  "episodios" : [ {
+    "titulo" : "24 Hours",
+    "numeroEpisodio" : 1,
+    "avaliacao" : "8.6",
+    "dataLancamento" : "1994-09-19"
+  }, {
+    "titulo" : "Day One",
+    "numeroEpisodio" : 2,
+    "avaliacao" : "8.0",
+    "dataLancamento" : "1994-09-22"
+  }, {
+    "titulo" : "Going Home",
+    "numeroEpisodio" : 3,
+    "avaliacao" : "8.0",
+    "dataLancamento" : "1994-09-29"
+  }, {
+    "titulo" : "Hit and Run",
+    "numeroEpisodio" : 4,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1994-10-06"
+  }, {
+    "titulo" : "Into That Good Night",
+    "numeroEpisodio" : 5,
+    "avaliacao" : "7.9",
+    "dataLancamento" : "1994-10-13"
+  }, {
+    "titulo" : "Chicago Heat",
+    "numeroEpisodio" : 6,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1994-10-20"
+  }, {
+    "titulo" : "Another Perfect Day",
+    "numeroEpisodio" : 7,
+    "avaliacao" : "7.7",
+    "dataLancamento" : "1994-11-03"
+  }, {
+    "titulo" : "9 1/2 Hours",
+    "numeroEpisodio" : 8,
+    "avaliacao" : "7.6",
+    "dataLancamento" : "1994-11-10"
+  }, {
+    "titulo" : "ER Confidential",
+    "numeroEpisodio" : 9,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1994-11-17"
+  }, {
+    "titulo" : "Blizzard",
+    "numeroEpisodio" : 10,
+    "avaliacao" : "8.6",
+    "dataLancamento" : "1994-12-08"
+  }, {
+    "titulo" : "The Gift",
+    "numeroEpisodio" : 11,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1994-12-15"
+  }, {
+    "titulo" : "Happy New Year",
+    "numeroEpisodio" : 12,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1995-01-05"
+  }, {
+    "titulo" : "Luck of the Draw",
+    "numeroEpisodio" : 13,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1995-01-12"
+  }, {
+    "titulo" : "Long Day's Journey",
+    "numeroEpisodio" : 14,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1995-01-19"
+  }, {
+    "titulo" : "Feb 5, '95",
+    "numeroEpisodio" : 15,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1995-02-02"
+  }, {
+    "titulo" : "The Birthday Party",
+    "numeroEpisodio" : 17,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1995-02-16"
+  }, {
+    "titulo" : "Sleepless in Chicago",
+    "numeroEpisodio" : 18,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1995-02-23"
+  }, {
+    "titulo" : "Love's Labor Lost",
+    "numeroEpisodio" : 19,
+    "avaliacao" : "9.2",
+    "dataLancamento" : "1995-03-07"
+  }, {
+    "titulo" : "Full Moon, Saturday Night",
+    "numeroEpisodio" : 20,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1995-03-30"
+  }, {
+    "titulo" : "House of Cards",
+    "numeroEpisodio" : 21,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1995-04-06"
+  }, {
+    "titulo" : "Men Plan, God Laughs",
+    "numeroEpisodio" : 22,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1995-04-27"
+  }, {
+    "titulo" : "Love Among the Ruins",
+    "numeroEpisodio" : 23,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1995-05-04"
+  }, {
+    "titulo" : "Motherhood",
+    "numeroEpisodio" : 24,
+    "avaliacao" : "7.7",
+    "dataLancamento" : "1995-05-11"
+  }, {
+    "titulo" : "Everything Old Is New Again",
+    "numeroEpisodio" : 25,
+    "avaliacao" : "8.2",
+    "dataLancamento" : "1995-05-18"
+  } ]
+}, {
+  "temporada" : 2,
+  "episodios" : [ {
+    "titulo" : "Welcome Back Carter!",
+    "numeroEpisodio" : 1,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1995-09-21"
+  }, {
+    "titulo" : "Summer Run",
+    "numeroEpisodio" : 2,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1995-09-28"
+  }, {
+    "titulo" : "Do One, Teach One, Kill One",
+    "numeroEpisodio" : 3,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1995-10-05"
+  }, {
+    "titulo" : "What Life?",
+    "numeroEpisodio" : 4,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1995-10-12"
+  }, {
+    "titulo" : "And Baby Makes Two",
+    "numeroEpisodio" : 5,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1995-10-19"
+  }, {
+    "titulo" : "Days Like This",
+    "numeroEpisodio" : 6,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1995-11-02"
+  }, {
+    "titulo" : "Hell and High Water",
+    "numeroEpisodio" : 7,
+    "avaliacao" : "9.1",
+    "dataLancamento" : "1995-11-09"
+  }, {
+    "titulo" : "The Secret Sharer",
+    "numeroEpisodio" : 8,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1995-11-16"
+  }, {
+    "titulo" : "Home",
+    "numeroEpisodio" : 9,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1995-12-07"
+  }, {
+    "titulo" : "A Miracle Happens Here",
+    "numeroEpisodio" : 10,
+    "avaliacao" : "8.0",
+    "dataLancamento" : "1995-12-14"
+  }, {
+    "titulo" : "Dead of Winter",
+    "numeroEpisodio" : 11,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1996-01-04"
+  }, {
+    "titulo" : "True Lies",
+    "numeroEpisodio" : 12,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1996-01-25"
+  }, {
+    "titulo" : "It's Not Easy Being Greene",
+    "numeroEpisodio" : 13,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1996-02-01"
+  }, {
+    "titulo" : "The Right Thing",
+    "numeroEpisodio" : 14,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1996-02-08"
+  }, {
+    "titulo" : "Baby Shower",
+    "numeroEpisodio" : 15,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1996-02-15"
+  }, {
+    "titulo" : "The Healers",
+    "numeroEpisodio" : 16,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1996-02-22"
+  }, {
+    "titulo" : "The Match Game",
+    "numeroEpisodio" : 17,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1996-03-28"
+  }, {
+    "titulo" : "A Shift in the Night",
+    "numeroEpisodio" : 18,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1996-04-04"
+  }, {
+    "titulo" : "Fire in the Belly",
+    "numeroEpisodio" : 19,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1996-04-25"
+  }, {
+    "titulo" : "Fevers of Unknown Origin",
+    "numeroEpisodio" : 20,
+    "avaliacao" : "7.8",
+    "dataLancamento" : "1996-05-02"
+  }, {
+    "titulo" : "Take These Broken Wings",
+    "numeroEpisodio" : 21,
+    "avaliacao" : "7.6",
+    "dataLancamento" : "1996-05-09"
+  }, {
+    "titulo" : "John Carter, M.D.",
+    "numeroEpisodio" : 22,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1996-05-16"
+  } ]
+}, {
+  "temporada" : 3,
+  "episodios" : [ {
+    "titulo" : "Doctor Carter, I Presume",
+    "numeroEpisodio" : 1,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1996-09-26"
+  }, {
+    "titulo" : "Let the Games Begin",
+    "numeroEpisodio" : 2,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1996-10-03"
+  }, {
+    "titulo" : "Don't Ask, Don't Tell",
+    "numeroEpisodio" : 3,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1996-10-10"
+  }, {
+    "titulo" : "Last Call",
+    "numeroEpisodio" : 4,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1996-10-17"
+  }, {
+    "titulo" : "Ghosts",
+    "numeroEpisodio" : 5,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1996-10-31"
+  }, {
+    "titulo" : "Fear of Flying",
+    "numeroEpisodio" : 6,
+    "avaliacao" : "8.2",
+    "dataLancamento" : "1996-11-07"
+  }, {
+    "titulo" : "No Brain, No Gain",
+    "numeroEpisodio" : 7,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1996-11-14"
+  }, {
+    "titulo" : "Union Station",
+    "numeroEpisodio" : 8,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1996-11-21"
+  }, {
+    "titulo" : "Ask Me No Questions, I'll Tell You No Lies",
+    "numeroEpisodio" : 9,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1996-12-12"
+  }, {
+    "titulo" : "Homeless for the Holidays",
+    "numeroEpisodio" : 10,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1996-12-19"
+  }, {
+    "titulo" : "Night Shift",
+    "numeroEpisodio" : 11,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1997-01-16"
+  }, {
+    "titulo" : "Post Mortem",
+    "numeroEpisodio" : 12,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1997-01-23"
+  }, {
+    "titulo" : "Fortune's Fools",
+    "numeroEpisodio" : 13,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1997-01-30"
+  }, {
+    "titulo" : "Whose Appy Now?",
+    "numeroEpisodio" : 14,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1997-02-06"
+  }, {
+    "titulo" : "The Long Way Around",
+    "numeroEpisodio" : 15,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1997-02-13"
+  }, {
+    "titulo" : "Faith",
+    "numeroEpisodio" : 16,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1997-02-20"
+  }, {
+    "titulo" : "Tribes",
+    "numeroEpisodio" : 17,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1997-04-10"
+  }, {
+    "titulo" : "You Bet Your Life",
+    "numeroEpisodio" : 18,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1997-04-17"
+  }, {
+    "titulo" : "Calling Dr. Hathaway",
+    "numeroEpisodio" : 19,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1997-04-24"
+  }, {
+    "titulo" : "Random Acts",
+    "numeroEpisodio" : 20,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1997-05-01"
+  }, {
+    "titulo" : "Make a Wish",
+    "numeroEpisodio" : 21,
+    "avaliacao" : "7.7",
+    "dataLancamento" : "1997-05-08"
+  }, {
+    "titulo" : "One More for the Road",
+    "numeroEpisodio" : 22,
+    "avaliacao" : "8.2",
+    "dataLancamento" : "1997-05-15"
+  } ]
+}, {
+  "temporada" : 4,
+  "episodios" : [ {
+    "titulo" : "Ambush",
+    "numeroEpisodio" : 1,
+    "avaliacao" : "8.1",
+    "dataLancamento" : "1997-09-25"
+  }, {
+    "titulo" : "Something New",
+    "numeroEpisodio" : 2,
+    "avaliacao" : "7.5",
+    "dataLancamento" : "1997-10-02"
+  }, {
+    "titulo" : "Friendly Fire",
+    "numeroEpisodio" : 3,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1997-10-09"
+  }, {
+    "titulo" : "When the Bough Breaks",
+    "numeroEpisodio" : 4,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1997-10-23"
+  }, {
+    "titulo" : "Good Touch, Bad Touch",
+    "numeroEpisodio" : 5,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1997-10-30"
+  }, {
+    "titulo" : "Ground Zero",
+    "numeroEpisodio" : 6,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1997-11-06"
+  }, {
+    "titulo" : "Fathers and Sons",
+    "numeroEpisodio" : 7,
+    "avaliacao" : "8.3",
+    "dataLancamento" : "1997-11-13"
+  }, {
+    "titulo" : "Freak Show",
+    "numeroEpisodio" : 8,
+    "avaliacao" : "7.8",
+    "dataLancamento" : "1997-11-20"
+  }, {
+    "titulo" : "Obstruction of Justice",
+    "numeroEpisodio" : 9,
+    "avaliacao" : "7.8",
+    "dataLancamento" : "1997-12-11"
+  }, {
+    "titulo" : "Do You See What I See?",
+    "numeroEpisodio" : 10,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1997-12-18"
+  }, {
+    "titulo" : "Think Warm Thoughts",
+    "numeroEpisodio" : 11,
+    "avaliacao" : "7.7",
+    "dataLancamento" : "1998-01-08"
+  }, {
+    "titulo" : "Sharp Relief",
+    "numeroEpisodio" : 12,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1998-01-15"
+  }, {
+    "titulo" : "Carter's Choice",
+    "numeroEpisodio" : 13,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1998-01-29"
+  }, {
+    "titulo" : "Family Practice",
+    "numeroEpisodio" : 14,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1998-02-05"
+  }, {
+    "titulo" : "Exodus",
+    "numeroEpisodio" : 15,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1998-02-26"
+  }, {
+    "titulo" : "My Brother's Keeper",
+    "numeroEpisodio" : 16,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1998-03-05"
+  }, {
+    "titulo" : "A Bloody Mess",
+    "numeroEpisodio" : 17,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1998-04-09"
+  }, {
+    "titulo" : "Gut Reaction",
+    "numeroEpisodio" : 18,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1998-04-16"
+  }, {
+    "titulo" : "Shades of Gray",
+    "numeroEpisodio" : 19,
+    "avaliacao" : "7.9",
+    "dataLancamento" : "1998-04-23"
+  }, {
+    "titulo" : "Of Past Regret and Future Fear",
+    "numeroEpisodio" : 20,
+    "avaliacao" : "7.9",
+    "dataLancamento" : "1998-04-30"
+  }, {
+    "titulo" : "Suffer the Little Children",
+    "numeroEpisodio" : 21,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1998-05-07"
+  }, {
+    "titulo" : "A Hole in the Heart",
+    "numeroEpisodio" : 22,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1998-05-14"
+  } ]
+}, {
+  "temporada" : 5,
+  "episodios" : [ {
+    "titulo" : "Day for Knight",
+    "numeroEpisodio" : 1,
+    "avaliacao" : "7.8",
+    "dataLancamento" : "1998-09-24"
+  }, {
+    "titulo" : "Split Second",
+    "numeroEpisodio" : 2,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1998-10-01"
+  }, {
+    "titulo" : "They Treat Horses, Don't They?",
+    "numeroEpisodio" : 3,
+    "avaliacao" : "7.6",
+    "dataLancamento" : "1998-10-08"
+  }, {
+    "titulo" : "Vanishing Act",
+    "numeroEpisodio" : 4,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1998-10-15"
+  }, {
+    "titulo" : "Masquerade",
+    "numeroEpisodio" : 5,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1998-10-29"
+  }, {
+    "titulo" : "Stuck on You",
+    "numeroEpisodio" : 6,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1998-11-05"
+  }, {
+    "titulo" : "Hazed and Confused",
+    "numeroEpisodio" : 7,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1998-11-12"
+  }, {
+    "titulo" : "The Good Fight",
+    "numeroEpisodio" : 8,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1998-11-19"
+  }, {
+    "titulo" : "Good Luck, Ruth Johnson",
+    "numeroEpisodio" : 9,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1998-12-10"
+  }, {
+    "titulo" : "The Miracle Worker",
+    "numeroEpisodio" : 10,
+    "avaliacao" : "7.9",
+    "dataLancamento" : "1998-12-17"
+  }, {
+    "titulo" : "Nobody Doesn't Like Amanda Lee",
+    "numeroEpisodio" : 11,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1999-01-07"
+  }, {
+    "titulo" : "Double Blind",
+    "numeroEpisodio" : 12,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1999-01-21"
+  }, {
+    "titulo" : "Choosing Joi",
+    "numeroEpisodio" : 13,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1999-02-04"
+  }, {
+    "titulo" : "The Storm: Part 1",
+    "numeroEpisodio" : 14,
+    "avaliacao" : "8.3",
+    "dataLancamento" : "1999-02-11"
+  }, {
+    "titulo" : "The Storm: Part 2",
+    "numeroEpisodio" : 15,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1999-02-18"
+  }, {
+    "titulo" : "Middle of Nowhere",
+    "numeroEpisodio" : 16,
+    "avaliacao" : "7.9",
+    "dataLancamento" : "1999-02-25"
+  }, {
+    "titulo" : "Sticks and Stones",
+    "numeroEpisodio" : 17,
+    "avaliacao" : "7.6",
+    "dataLancamento" : "1999-03-25"
+  }, {
+    "titulo" : "Point of Origin",
+    "numeroEpisodio" : 18,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1999-04-08"
+  }, {
+    "titulo" : "Rites of Spring",
+    "numeroEpisodio" : 19,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1999-04-29"
+  }, {
+    "titulo" : "Power",
+    "numeroEpisodio" : 20,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1999-05-06"
+  }, {
+    "titulo" : "Responsible Parties",
+    "numeroEpisodio" : 21,
+    "avaliacao" : "8.1",
+    "dataLancamento" : "1999-05-13"
+  }, {
+    "titulo" : "Getting to Know You",
+    "numeroEpisodio" : 22,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1999-05-20"
+  } ]
+}, {
+  "temporada" : 6,
+  "episodios" : [ {
+    "titulo" : "Leave It to Weaver",
+    "numeroEpisodio" : 1,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1999-09-30"
+  }, {
+    "titulo" : "Last Rites",
+    "numeroEpisodio" : 2,
+    "avaliacao" : "7.8",
+    "dataLancamento" : "1999-10-07"
+  }, {
+    "titulo" : "Greene with Envy",
+    "numeroEpisodio" : 3,
+    "avaliacao" : "7.8",
+    "dataLancamento" : "1999-10-14"
+  }, {
+    "titulo" : "Sins of the Fathers",
+    "numeroEpisodio" : 4,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1999-10-21"
+  }, {
+    "titulo" : "Truth & Consequences",
+    "numeroEpisodio" : 5,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1999-11-04"
+  }, {
+    "titulo" : "The Peace of Wild Things",
+    "numeroEpisodio" : 6,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1999-11-11"
+  }, {
+    "titulo" : "Humpty Dumpty",
+    "numeroEpisodio" : 7,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1999-11-18"
+  }, {
+    "titulo" : "Great Expectations",
+    "numeroEpisodio" : 8,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1999-11-25"
+  }, {
+    "titulo" : "How the Finch Stole Christmas",
+    "numeroEpisodio" : 9,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "1999-12-16"
+  }, {
+    "titulo" : "Family Matters",
+    "numeroEpisodio" : 10,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2000-01-06"
+  }, {
+    "titulo" : "The Domino Heart",
+    "numeroEpisodio" : 11,
+    "avaliacao" : "7.9",
+    "dataLancamento" : "2000-01-13"
+  }, {
+    "titulo" : "Abby Road",
+    "numeroEpisodio" : 12,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2000-02-03"
+  }, {
+    "titulo" : "Be Still My Heart",
+    "numeroEpisodio" : 13,
+    "avaliacao" : "9.1",
+    "dataLancamento" : "2000-02-10"
+  }, {
+    "titulo" : "All in the Family",
+    "numeroEpisodio" : 14,
+    "avaliacao" : "9.6",
+    "dataLancamento" : "2000-02-17"
+  }, {
+    "titulo" : "Be Patient",
+    "numeroEpisodio" : 15,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2000-02-24"
+  }, {
+    "titulo" : "Under Control",
+    "numeroEpisodio" : 16,
+    "avaliacao" : "7.7",
+    "dataLancamento" : "2000-03-23"
+  }, {
+    "titulo" : "Viable Options",
+    "numeroEpisodio" : 17,
+    "avaliacao" : "7.6",
+    "dataLancamento" : "2000-04-06"
+  }, {
+    "titulo" : "Match Made in Heaven",
+    "numeroEpisodio" : 18,
+    "avaliacao" : "7.5",
+    "dataLancamento" : "2000-04-13"
+  }, {
+    "titulo" : "The Fastest Year",
+    "numeroEpisodio" : 19,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2000-04-27"
+  }, {
+    "titulo" : "Loose Ends",
+    "numeroEpisodio" : 20,
+    "avaliacao" : "8.2",
+    "dataLancamento" : "2000-05-04"
+  }, {
+    "titulo" : "Such Sweet Sorrow",
+    "numeroEpisodio" : 21,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2000-05-11"
+  }, {
+    "titulo" : "May Day",
+    "numeroEpisodio" : 22,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2000-05-18"
+  } ]
+}, {
+  "temporada" : 7,
+  "episodios" : [ {
+    "titulo" : "Homecoming",
+    "numeroEpisodio" : 1,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2000-10-12"
+  }, {
+    "titulo" : "Sand and Water",
+    "numeroEpisodio" : 2,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2000-10-19"
+  }, {
+    "titulo" : "Mars Attacks",
+    "numeroEpisodio" : 3,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2000-10-26"
+  }, {
+    "titulo" : "Benton Backwards",
+    "numeroEpisodio" : 4,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2000-11-02"
+  }, {
+    "titulo" : "Flight of Fancy",
+    "numeroEpisodio" : 5,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2000-11-09"
+  }, {
+    "titulo" : "The Visit",
+    "numeroEpisodio" : 6,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2000-11-16"
+  }, {
+    "titulo" : "Rescue Me",
+    "numeroEpisodio" : 7,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2000-11-23"
+  }, {
+    "titulo" : "The Dance We Do",
+    "numeroEpisodio" : 8,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2000-12-07"
+  }, {
+    "titulo" : "The Greatest of Gifts",
+    "numeroEpisodio" : 9,
+    "avaliacao" : "7.9",
+    "dataLancamento" : "2000-12-14"
+  }, {
+    "titulo" : "Rock, Paper, Scissors",
+    "numeroEpisodio" : 11,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2001-01-11"
+  }, {
+    "titulo" : "Surrender",
+    "numeroEpisodio" : 12,
+    "avaliacao" : "7.6",
+    "dataLancamento" : "2001-02-01"
+  }, {
+    "titulo" : "Thy Will Be Done",
+    "numeroEpisodio" : 13,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2001-02-08"
+  }, {
+    "titulo" : "A Walk in the Woods",
+    "numeroEpisodio" : 14,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2001-02-15"
+  }, {
+    "titulo" : "The Crossing",
+    "numeroEpisodio" : 15,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2001-02-22"
+  }, {
+    "titulo" : "Witch Hunt",
+    "numeroEpisodio" : 16,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2001-03-01"
+  }, {
+    "titulo" : "Survival of the Fittest",
+    "numeroEpisodio" : 17,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2001-03-29"
+  }, {
+    "titulo" : "April Showers",
+    "numeroEpisodio" : 18,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2001-04-19"
+  }, {
+    "titulo" : "Sailing Away",
+    "numeroEpisodio" : 19,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2001-04-26"
+  }, {
+    "titulo" : "Fear of Commitment",
+    "numeroEpisodio" : 20,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2001-05-03"
+  }, {
+    "titulo" : "Where the Heart Is",
+    "numeroEpisodio" : 21,
+    "avaliacao" : "7.7",
+    "dataLancamento" : "2001-05-10"
+  }, {
+    "titulo" : "Rampage",
+    "numeroEpisodio" : 22,
+    "avaliacao" : "8.7",
+    "dataLancamento" : "2001-05-17"
+  } ]
+}, {
+  "temporada" : 8,
+  "episodios" : [ {
+    "titulo" : "Four Corners",
+    "numeroEpisodio" : 1,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2001-09-27"
+  }, {
+    "titulo" : "The Longer You Stay",
+    "numeroEpisodio" : 2,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2001-10-04"
+  }, {
+    "titulo" : "Blood, Sugar, Sex, Magic",
+    "numeroEpisodio" : 3,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2001-10-11"
+  }, {
+    "titulo" : "Never Say Never",
+    "numeroEpisodio" : 4,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2001-10-18"
+  }, {
+    "titulo" : "Start All Over Again",
+    "numeroEpisodio" : 5,
+    "avaliacao" : "7.7",
+    "dataLancamento" : "2001-10-25"
+  }, {
+    "titulo" : "Supplies and Demands",
+    "numeroEpisodio" : 6,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2001-11-01"
+  }, {
+    "titulo" : "If I Should Fall from Grace",
+    "numeroEpisodio" : 7,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2001-11-08"
+  }, {
+    "titulo" : "Partly Cloudy, Chance of Rain",
+    "numeroEpisodio" : 8,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2001-11-15"
+  }, {
+    "titulo" : "Quo Vadis?",
+    "numeroEpisodio" : 9,
+    "avaliacao" : "7.5",
+    "dataLancamento" : "2001-11-22"
+  }, {
+    "titulo" : "I'll Be Home for Christmas",
+    "numeroEpisodio" : 10,
+    "avaliacao" : "8.2",
+    "dataLancamento" : "2001-12-13"
+  }, {
+    "titulo" : "Beyond Repair",
+    "numeroEpisodio" : 11,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2002-01-10"
+  }, {
+    "titulo" : "A River in Egypt",
+    "numeroEpisodio" : 12,
+    "avaliacao" : "7.6",
+    "dataLancamento" : "2002-01-17"
+  }, {
+    "titulo" : "Damage Is Done",
+    "numeroEpisodio" : 13,
+    "avaliacao" : "8.4",
+    "dataLancamento" : "2002-01-31"
+  }, {
+    "titulo" : "A Simple Twist of Fate",
+    "numeroEpisodio" : 14,
+    "avaliacao" : "8.4",
+    "dataLancamento" : "2002-02-07"
+  }, {
+    "titulo" : "It's All in Your Head",
+    "numeroEpisodio" : 15,
+    "avaliacao" : "8.0",
+    "dataLancamento" : "2002-02-28"
+  }, {
+    "titulo" : "Secrets and Lies",
+    "numeroEpisodio" : 16,
+    "avaliacao" : "8.7",
+    "dataLancamento" : "2002-03-07"
+  }, {
+    "titulo" : "Bygones",
+    "numeroEpisodio" : 17,
+    "avaliacao" : "7.9",
+    "dataLancamento" : "2002-03-28"
+  }, {
+    "titulo" : "Orion in the Sky",
+    "numeroEpisodio" : 18,
+    "avaliacao" : "8.9",
+    "dataLancamento" : "2002-04-04"
+  }, {
+    "titulo" : "Brothers and Sisters",
+    "numeroEpisodio" : 19,
+    "avaliacao" : "7.5",
+    "dataLancamento" : "2002-04-25"
+  }, {
+    "titulo" : "The Letter",
+    "numeroEpisodio" : 20,
+    "avaliacao" : "8.9",
+    "dataLancamento" : "2002-05-02"
+  }, {
+    "titulo" : "On the Beach",
+    "numeroEpisodio" : 21,
+    "avaliacao" : "9.6",
+    "dataLancamento" : "2002-05-09"
+  }, {
+    "titulo" : "Lockdown",
+    "numeroEpisodio" : 22,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2002-05-16"
+  } ]
+}, {
+  "temporada" : 9,
+  "episodios" : [ {
+    "titulo" : "Chaos Theory",
+    "numeroEpisodio" : 1,
+    "avaliacao" : "8.4",
+    "dataLancamento" : "2002-09-26"
+  }, {
+    "titulo" : "Dead Again",
+    "numeroEpisodio" : 2,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2002-10-03"
+  }, {
+    "titulo" : "Insurrection",
+    "numeroEpisodio" : 3,
+    "avaliacao" : "7.8",
+    "dataLancamento" : "2002-10-10"
+  }, {
+    "titulo" : "Walk Like a Man",
+    "numeroEpisodio" : 4,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2002-10-17"
+  }, {
+    "titulo" : "A Hopeless Wound",
+    "numeroEpisodio" : 5,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2002-10-31"
+  }, {
+    "titulo" : "One Can Only Hope",
+    "numeroEpisodio" : 6,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2002-11-07"
+  }, {
+    "titulo" : "Tell Me Where It Hurts",
+    "numeroEpisodio" : 7,
+    "avaliacao" : "7.5",
+    "dataLancamento" : "2002-11-14"
+  }, {
+    "titulo" : "First Snowfall",
+    "numeroEpisodio" : 8,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2002-11-21"
+  }, {
+    "titulo" : "Next of Kin",
+    "numeroEpisodio" : 9,
+    "avaliacao" : "7.5",
+    "dataLancamento" : "2002-12-05"
+  }, {
+    "titulo" : "Hindsight",
+    "numeroEpisodio" : 10,
+    "avaliacao" : "7.7",
+    "dataLancamento" : "2002-12-12"
+  }, {
+    "titulo" : "A Little Help from My Friends",
+    "numeroEpisodio" : 11,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2003-01-09"
+  }, {
+    "titulo" : "A Saint in the City",
+    "numeroEpisodio" : 12,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2003-01-16"
+  }, {
+    "titulo" : "No Good Deed Goes Unpunished",
+    "numeroEpisodio" : 13,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2003-01-30"
+  }, {
+    "titulo" : "No Strings Attached",
+    "numeroEpisodio" : 14,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2003-02-06"
+  }, {
+    "titulo" : "A Boy Falling Out of the Sky",
+    "numeroEpisodio" : 15,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2003-02-13"
+  }, {
+    "titulo" : "A Thousand Cranes",
+    "numeroEpisodio" : 16,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2003-02-20"
+  }, {
+    "titulo" : "The Advocate",
+    "numeroEpisodio" : 17,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2003-03-13"
+  }, {
+    "titulo" : "Finders Keepers",
+    "numeroEpisodio" : 18,
+    "avaliacao" : "8.0",
+    "dataLancamento" : "2003-04-03"
+  }, {
+    "titulo" : "Things Change",
+    "numeroEpisodio" : 19,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2003-04-24"
+  }, {
+    "titulo" : "Foreign Affairs",
+    "numeroEpisodio" : 20,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2003-05-01"
+  }, {
+    "titulo" : "When Night Meets Day",
+    "numeroEpisodio" : 21,
+    "avaliacao" : "8.1",
+    "dataLancamento" : "2003-05-08"
+  }, {
+    "titulo" : "Kisangani",
+    "numeroEpisodio" : 22,
+    "avaliacao" : "8.4",
+    "dataLancamento" : "2003-05-15"
+  } ]
+}, {
+  "temporada" : 10,
+  "episodios" : [ {
+    "titulo" : "Now What?",
+    "numeroEpisodio" : 1,
+    "avaliacao" : "7.8",
+    "dataLancamento" : "2003-09-25"
+  }, {
+    "titulo" : "The Lost",
+    "numeroEpisodio" : 2,
+    "avaliacao" : "8.3",
+    "dataLancamento" : "2003-10-02"
+  }, {
+    "titulo" : "Dear Abby",
+    "numeroEpisodio" : 3,
+    "avaliacao" : "7.9",
+    "dataLancamento" : "2003-10-09"
+  }, {
+    "titulo" : "Shifts Happen",
+    "numeroEpisodio" : 4,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2003-10-23"
+  }, {
+    "titulo" : "Out of Africa",
+    "numeroEpisodio" : 5,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2003-10-30"
+  }, {
+    "titulo" : "The Greater Good",
+    "numeroEpisodio" : 6,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2003-11-06"
+  }, {
+    "titulo" : "Death and Taxes",
+    "numeroEpisodio" : 7,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2003-11-13"
+  }, {
+    "titulo" : "Freefall",
+    "numeroEpisodio" : 8,
+    "avaliacao" : "8.6",
+    "dataLancamento" : "2003-11-20"
+  }, {
+    "titulo" : "Missing",
+    "numeroEpisodio" : 9,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2003-12-04"
+  }, {
+    "titulo" : "Makemba",
+    "numeroEpisodio" : 10,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2003-12-11"
+  }, {
+    "titulo" : "Touch & Go",
+    "numeroEpisodio" : 11,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2004-01-08"
+  }, {
+    "titulo" : "NICU",
+    "numeroEpisodio" : 12,
+    "avaliacao" : "8.0",
+    "dataLancamento" : "2004-01-15"
+  }, {
+    "titulo" : "Get Carter",
+    "numeroEpisodio" : 13,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2004-02-05"
+  }, {
+    "titulo" : "Impulse Control",
+    "numeroEpisodio" : 14,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2004-02-12"
+  }, {
+    "titulo" : "Blood Relations",
+    "numeroEpisodio" : 15,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2004-02-19"
+  }, {
+    "titulo" : "Forgive and Forget",
+    "numeroEpisodio" : 16,
+    "avaliacao" : "8.0",
+    "dataLancamento" : "2004-02-26"
+  }, {
+    "titulo" : "The Student",
+    "numeroEpisodio" : 17,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2004-04-01"
+  }, {
+    "titulo" : "Where There's Smoke",
+    "numeroEpisodio" : 18,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2004-04-08"
+  }, {
+    "titulo" : "Just a Touch",
+    "numeroEpisodio" : 19,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2004-04-22"
+  }, {
+    "titulo" : "Midnight",
+    "numeroEpisodio" : 21,
+    "avaliacao" : "8.4",
+    "dataLancamento" : "2004-05-06"
+  }, {
+    "titulo" : "Drive",
+    "numeroEpisodio" : 22,
+    "avaliacao" : "7.9",
+    "dataLancamento" : "2004-05-13"
+  } ]
+}, {
+  "temporada" : 11,
+  "episodios" : [ {
+    "titulo" : "One for the Road",
+    "numeroEpisodio" : 1,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2004-09-23"
+  }, {
+    "titulo" : "Damaged",
+    "numeroEpisodio" : 2,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2004-10-07"
+  }, {
+    "titulo" : "Try Carter",
+    "numeroEpisodio" : 3,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2004-10-14"
+  }, {
+    "titulo" : "Fear",
+    "numeroEpisodio" : 4,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2004-10-21"
+  }, {
+    "titulo" : "Intern's Guide to the Galaxy",
+    "numeroEpisodio" : 5,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2004-11-04"
+  }, {
+    "titulo" : "Time of Death",
+    "numeroEpisodio" : 6,
+    "avaliacao" : "8.8",
+    "dataLancamento" : "2004-11-11"
+  }, {
+    "titulo" : "White Guy, Dark Hair",
+    "numeroEpisodio" : 7,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2004-11-18"
+  }, {
+    "titulo" : "Shot in the Dark",
+    "numeroEpisodio" : 8,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2004-12-02"
+  }, {
+    "titulo" : "Twas the Night",
+    "numeroEpisodio" : 9,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2004-12-09"
+  }, {
+    "titulo" : "Skin",
+    "numeroEpisodio" : 10,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2005-01-13"
+  }, {
+    "titulo" : "Only Connect",
+    "numeroEpisodio" : 11,
+    "avaliacao" : "7.5",
+    "dataLancamento" : "2005-01-20"
+  }, {
+    "titulo" : "The Providers",
+    "numeroEpisodio" : 12,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2005-01-27"
+  }, {
+    "titulo" : "Middleman",
+    "numeroEpisodio" : 13,
+    "avaliacao" : "7.7",
+    "dataLancamento" : "2005-02-03"
+  }, {
+    "titulo" : "Just as I Am",
+    "numeroEpisodio" : 14,
+    "avaliacao" : "7.6",
+    "dataLancamento" : "2005-02-10"
+  }, {
+    "titulo" : "Alone in a Crowd",
+    "numeroEpisodio" : 15,
+    "avaliacao" : "8.4",
+    "dataLancamento" : "2005-02-17"
+  }, {
+    "titulo" : "Here and There",
+    "numeroEpisodio" : 16,
+    "avaliacao" : "7.8",
+    "dataLancamento" : "2005-02-24"
+  }, {
+    "titulo" : "Back in the World",
+    "numeroEpisodio" : 17,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2005-03-24"
+  }, {
+    "titulo" : "Refusal of Care",
+    "numeroEpisodio" : 18,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2005-04-21"
+  }, {
+    "titulo" : "Ruby Redux",
+    "numeroEpisodio" : 19,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2005-04-28"
+  }, {
+    "titulo" : "You Are Here",
+    "numeroEpisodio" : 20,
+    "avaliacao" : "7.5",
+    "dataLancamento" : "2005-05-05"
+  }, {
+    "titulo" : "Carter est Amoureux",
+    "numeroEpisodio" : 21,
+    "avaliacao" : "7.5",
+    "dataLancamento" : "2005-05-12"
+  }, {
+    "titulo" : "The Show Must Go On",
+    "numeroEpisodio" : 22,
+    "avaliacao" : "8.6",
+    "dataLancamento" : "2005-05-19"
+  } ]
+}, {
+  "temporada" : 12,
+  "episodios" : [ {
+    "titulo" : "Cañon City",
+    "numeroEpisodio" : 1,
+    "avaliacao" : "7.0",
+    "dataLancamento" : "2005-09-22"
+  }, {
+    "titulo" : "Nobody's Baby",
+    "numeroEpisodio" : 2,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2005-09-29"
+  }, {
+    "titulo" : "Man with No Name",
+    "numeroEpisodio" : 3,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2005-10-06"
+  }, {
+    "titulo" : "Blame It on the Rain",
+    "numeroEpisodio" : 4,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2005-10-13"
+  }, {
+    "titulo" : "Wake Up",
+    "numeroEpisodio" : 5,
+    "avaliacao" : "7.7",
+    "dataLancamento" : "2005-10-20"
+  }, {
+    "titulo" : "Dream House",
+    "numeroEpisodio" : 6,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2005-11-03"
+  }, {
+    "titulo" : "The Human Shield",
+    "numeroEpisodio" : 7,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2005-11-10"
+  }, {
+    "titulo" : "Two Ships",
+    "numeroEpisodio" : 8,
+    "avaliacao" : "8.2",
+    "dataLancamento" : "2005-11-17"
+  }, {
+    "titulo" : "I Do",
+    "numeroEpisodio" : 9,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2005-12-01"
+  }, {
+    "titulo" : "All About Christmas Eve",
+    "numeroEpisodio" : 10,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2005-12-08"
+  }, {
+    "titulo" : "If Not Now",
+    "numeroEpisodio" : 11,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2006-01-05"
+  }, {
+    "titulo" : "Split Decisions",
+    "numeroEpisodio" : 12,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2006-01-12"
+  }, {
+    "titulo" : "Body & Soul",
+    "numeroEpisodio" : 13,
+    "avaliacao" : "8.1",
+    "dataLancamento" : "2006-02-02"
+  }, {
+    "titulo" : "Quintessence of Dust",
+    "numeroEpisodio" : 14,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2006-02-09"
+  }, {
+    "titulo" : "Darfur",
+    "numeroEpisodio" : 15,
+    "avaliacao" : "7.3",
+    "dataLancamento" : "2006-03-02"
+  }, {
+    "titulo" : "Out on a Limb",
+    "numeroEpisodio" : 16,
+    "avaliacao" : "7.4",
+    "dataLancamento" : "2006-03-16"
+  }, {
+    "titulo" : "Lost in America",
+    "numeroEpisodio" : 17,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2006-03-23"
+  }, {
+    "titulo" : "Strange Bedfellows",
+    "numeroEpisodio" : 18,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2006-03-30"
+  }, {
+    "titulo" : "No Place to Hide",
+    "numeroEpisodio" : 19,
+    "avaliacao" : "7.7",
+    "dataLancamento" : "2006-04-27"
+  }, {
+    "titulo" : "There Are No Angels Here",
+    "numeroEpisodio" : 20,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2006-05-04"
+  }, {
+    "titulo" : "The Gallant Hero & the Tragic Victor",
+    "numeroEpisodio" : 21,
+    "avaliacao" : "8.2",
+    "dataLancamento" : "2006-05-11"
+  }, {
+    "titulo" : "Twenty-One Guns",
+    "numeroEpisodio" : 22,
+    "avaliacao" : "8.7",
+    "dataLancamento" : "2006-05-18"
+  } ]
+}, {
+  "temporada" : 13,
+  "episodios" : [ {
+    "titulo" : "Bloodline",
+    "numeroEpisodio" : 1,
+    "avaliacao" : "8.5",
+    "dataLancamento" : "2006-09-21"
+  }, {
+    "titulo" : "Graduation Day",
+    "numeroEpisodio" : 2,
+    "avaliacao" : "7.9",
+    "dataLancamento" : "2006-09-28"
+  }, {
+    "titulo" : "Somebody to Love",
+    "numeroEpisodio" : 3,
+    "avaliacao" : "7.4",
+    "dataLancamento" : "2006-10-05"
+  }, {
+    "titulo" : "Parenthood",
+    "numeroEpisodio" : 4,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2006-10-12"
+  }, {
+    "titulo" : "Ames v. Kovac",
+    "numeroEpisodio" : 5,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2006-10-19"
+  }, {
+    "titulo" : "Heart of the Matter",
+    "numeroEpisodio" : 6,
+    "avaliacao" : "7.5",
+    "dataLancamento" : "2006-11-02"
+  }, {
+    "titulo" : "Jigsaw",
+    "numeroEpisodio" : 7,
+    "avaliacao" : "7.9",
+    "dataLancamento" : "2006-11-09"
+  }, {
+    "titulo" : "Reason to Believe",
+    "numeroEpisodio" : 8,
+    "avaliacao" : "7.2",
+    "dataLancamento" : "2006-11-16"
+  }, {
+    "titulo" : "Scoop and Run",
+    "numeroEpisodio" : 9,
+    "avaliacao" : "7.9",
+    "dataLancamento" : "2006-11-23"
+  }, {
+    "titulo" : "Tell Me No Secrets...",
+    "numeroEpisodio" : 10,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2006-11-30"
+  }, {
+    "titulo" : "City of Mercy",
+    "numeroEpisodio" : 11,
+    "avaliacao" : "7.6",
+    "dataLancamento" : "2006-12-07"
+  }, {
+    "titulo" : "Breach of Trust",
+    "numeroEpisodio" : 12,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2007-01-04"
+  }, {
+    "titulo" : "A House Divided",
+    "numeroEpisodio" : 13,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2007-01-11"
+  }, {
+    "titulo" : "Murmurs of the Heart",
+    "numeroEpisodio" : 14,
+    "avaliacao" : "8.0",
+    "dataLancamento" : "2007-02-01"
+  }, {
+    "titulo" : "Dying Is Easy...",
+    "numeroEpisodio" : 15,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2007-02-08"
+  }, {
+    "titulo" : "Crisis of Conscience",
+    "numeroEpisodio" : 16,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2007-02-15"
+  }, {
+    "titulo" : "From Here to Paternity",
+    "numeroEpisodio" : 17,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2007-02-22"
+  }, {
+    "titulo" : "Photographs and Memories",
+    "numeroEpisodio" : 18,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2007-04-12"
+  }, {
+    "titulo" : "Family Business",
+    "numeroEpisodio" : 19,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2007-04-19"
+  }, {
+    "titulo" : "Lights Out",
+    "numeroEpisodio" : 20,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2007-04-26"
+  }, {
+    "titulo" : "I Don't",
+    "numeroEpisodio" : 21,
+    "avaliacao" : "8.2",
+    "dataLancamento" : "2007-05-03"
+  }, {
+    "titulo" : "Sea Change",
+    "numeroEpisodio" : 22,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2007-05-10"
+  }, {
+    "titulo" : "The Honeymoon Is Over",
+    "numeroEpisodio" : 23,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2007-05-17"
+  } ]
+}, {
+  "temporada" : 14,
+  "episodios" : [ {
+    "titulo" : "The War Comes Home",
+    "numeroEpisodio" : 1,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2007-09-27"
+  }, {
+    "titulo" : "In a Different Light",
+    "numeroEpisodio" : 2,
+    "avaliacao" : "7.4",
+    "dataLancamento" : "2007-10-04"
+  }, {
+    "titulo" : "Officer Down",
+    "numeroEpisodio" : 3,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2007-10-11"
+  }, {
+    "titulo" : "Gravity",
+    "numeroEpisodio" : 4,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2007-10-18"
+  }, {
+    "titulo" : "Under the Influence",
+    "numeroEpisodio" : 5,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2007-10-25"
+  }, {
+    "titulo" : "The Test",
+    "numeroEpisodio" : 6,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2007-11-01"
+  }, {
+    "titulo" : "Blackout",
+    "numeroEpisodio" : 7,
+    "avaliacao" : "7.7",
+    "dataLancamento" : "2007-11-08"
+  }, {
+    "titulo" : "Coming Home",
+    "numeroEpisodio" : 8,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2007-11-15"
+  }, {
+    "titulo" : "Skye's the Limit",
+    "numeroEpisodio" : 9,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2007-11-29"
+  }, {
+    "titulo" : "300 Patients",
+    "numeroEpisodio" : 10,
+    "avaliacao" : "7.6",
+    "dataLancamento" : "2007-12-06"
+  }, {
+    "titulo" : "Status Quo",
+    "numeroEpisodio" : 11,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2008-01-03"
+  }, {
+    "titulo" : "Believe the Unseen",
+    "numeroEpisodio" : 12,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2008-01-10"
+  }, {
+    "titulo" : "Atonement",
+    "numeroEpisodio" : 13,
+    "avaliacao" : "7.2",
+    "dataLancamento" : "2008-01-17"
+  }, {
+    "titulo" : "Owner of a Broken Heart",
+    "numeroEpisodio" : 14,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2008-04-10"
+  }, {
+    "titulo" : "...As the Day She Was Born",
+    "numeroEpisodio" : 15,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2008-04-17"
+  }, {
+    "titulo" : "Truth Will Out",
+    "numeroEpisodio" : 16,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2008-04-24"
+  }, {
+    "titulo" : "Under Pressure",
+    "numeroEpisodio" : 17,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2008-05-01"
+  }, {
+    "titulo" : "Tandem Repeats",
+    "numeroEpisodio" : 18,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2008-05-08"
+  }, {
+    "titulo" : "The Chicago Way",
+    "numeroEpisodio" : 19,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2008-05-15"
+  } ]
+}, {
+  "temporada" : 15,
+  "episodios" : [ {
+    "titulo" : "Life After Death",
+    "numeroEpisodio" : 1,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2008-09-25"
+  }, {
+    "titulo" : "Another Thursday at County",
+    "numeroEpisodio" : 2,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2008-10-09"
+  }, {
+    "titulo" : "The Book of Abby",
+    "numeroEpisodio" : 3,
+    "avaliacao" : "8.5",
+    "dataLancamento" : "2008-10-16"
+  }, {
+    "titulo" : "Parental Guidance",
+    "numeroEpisodio" : 4,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2008-10-23"
+  }, {
+    "titulo" : "Haunted",
+    "numeroEpisodio" : 5,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2008-10-30"
+  }, {
+    "titulo" : "Oh, Brother",
+    "numeroEpisodio" : 6,
+    "avaliacao" : "7.4",
+    "dataLancamento" : "2008-11-06"
+  }, {
+    "titulo" : "Heal Thyself",
+    "numeroEpisodio" : 7,
+    "avaliacao" : "8.8",
+    "dataLancamento" : "2008-11-13"
+  }, {
+    "titulo" : "Age of Innocence",
+    "numeroEpisodio" : 8,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2008-11-20"
+  }, {
+    "titulo" : "Let It Snow",
+    "numeroEpisodio" : 9,
+    "avaliacao" : "7.7",
+    "dataLancamento" : "2008-12-04"
+  }, {
+    "titulo" : "The High Holiday",
+    "numeroEpisodio" : 10,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2008-12-11"
+  }, {
+    "titulo" : "Separation Anxiety",
+    "numeroEpisodio" : 11,
+    "avaliacao" : "7.3",
+    "dataLancamento" : "2009-01-08"
+  }, {
+    "titulo" : "Dream Runner",
+    "numeroEpisodio" : 12,
+    "avaliacao" : "7.5",
+    "dataLancamento" : "2009-01-15"
+  }, {
+    "titulo" : "Love Is a Battlefield",
+    "numeroEpisodio" : 13,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2009-01-22"
+  }, {
+    "titulo" : "A Long, Strange Trip",
+    "numeroEpisodio" : 14,
+    "avaliacao" : "8.4",
+    "dataLancamento" : "2009-02-05"
+  }, {
+    "titulo" : "The Family Man",
+    "numeroEpisodio" : 15,
+    "avaliacao" : "7.5",
+    "dataLancamento" : "2009-02-12"
+  }, {
+    "titulo" : "The Beginning of the End",
+    "numeroEpisodio" : 16,
+    "avaliacao" : "8.0",
+    "dataLancamento" : "2009-02-19"
+  }, {
+    "titulo" : "T-Minus-6",
+    "numeroEpisodio" : 17,
+    "avaliacao" : "7.6",
+    "dataLancamento" : "2009-02-26"
+  }, {
+    "titulo" : "What We Do",
+    "numeroEpisodio" : 18,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2009-03-05"
+  }, {
+    "titulo" : "Old Times",
+    "numeroEpisodio" : 19,
+    "avaliacao" : "9.0",
+    "dataLancamento" : "2009-03-12"
+  }, {
+    "titulo" : "Shifting Equilibrium",
+    "numeroEpisodio" : 20,
+    "avaliacao" : "N/A",
+    "dataLancamento" : "2009-03-19"
+  }, {
+    "titulo" : "I Feel Good",
+    "numeroEpisodio" : 21,
+    "avaliacao" : "7.9",
+    "dataLancamento" : "2009-03-26"
+  }, {
+    "titulo" : "And in the End...",
+    "numeroEpisodio" : 22,
+    "avaliacao" : "9.2",
+    "dataLancamento" : "2009-04-02"
+  } ]
+} ]
