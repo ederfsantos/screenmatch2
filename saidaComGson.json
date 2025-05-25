@@ -1,0 +1,596 @@
+[
+  {
+    "temporada": 1,
+    "episodios": [
+      {
+        "titulo": "Rites of Passage",
+        "numeroEpisodio": 1,
+        "avaliacao": "7.6",
+        "dataLancamento": "2013-03-03"
+      },
+      {
+        "titulo": "Wrath of the Northmen",
+        "numeroEpisodio": 2,
+        "avaliacao": "7.8",
+        "dataLancamento": "2013-03-10"
+      },
+      {
+        "titulo": "Dispossessed",
+        "numeroEpisodio": 3,
+        "avaliacao": "7.9",
+        "dataLancamento": "2013-03-17"
+      },
+      {
+        "titulo": "Trial",
+        "numeroEpisodio": 4,
+        "avaliacao": "8.2",
+        "dataLancamento": "2013-03-24"
+      },
+      {
+        "titulo": "Raid",
+        "numeroEpisodio": 5,
+        "avaliacao": "8.2",
+        "dataLancamento": "2013-03-31"
+      },
+      {
+        "titulo": "Burial of the Dead",
+        "numeroEpisodio": 6,
+        "avaliacao": "N/A",
+        "dataLancamento": "2013-04-07"
+      },
+      {
+        "titulo": "A King\u0027s Ransom",
+        "numeroEpisodio": 7,
+        "avaliacao": "8.4",
+        "dataLancamento": "2013-04-14"
+      },
+      {
+        "titulo": "Sacrifice",
+        "numeroEpisodio": 8,
+        "avaliacao": "7.6",
+        "dataLancamento": "2013-04-21"
+      },
+      {
+        "titulo": "All Change",
+        "numeroEpisodio": 9,
+        "avaliacao": "7.7",
+        "dataLancamento": "2013-04-28"
+      }
+    ]
+  },
+  {
+    "temporada": 2,
+    "episodios": [
+      {
+        "titulo": "Brother\u0027s War",
+        "numeroEpisodio": 1,
+        "avaliacao": "8.5",
+        "dataLancamento": "2014-02-27"
+      },
+      {
+        "titulo": "Invasion",
+        "numeroEpisodio": 2,
+        "avaliacao": "8.1",
+        "dataLancamento": "2014-03-06"
+      },
+      {
+        "titulo": "Treachery",
+        "numeroEpisodio": 3,
+        "avaliacao": "8.5",
+        "dataLancamento": "2014-03-13"
+      },
+      {
+        "titulo": "Eye for an Eye",
+        "numeroEpisodio": 4,
+        "avaliacao": "8.4",
+        "dataLancamento": "2014-03-20"
+      },
+      {
+        "titulo": "Answers in Blood",
+        "numeroEpisodio": 5,
+        "avaliacao": "8.4",
+        "dataLancamento": "2014-03-27"
+      },
+      {
+        "titulo": "Unforgiven",
+        "numeroEpisodio": 6,
+        "avaliacao": "8.5",
+        "dataLancamento": "2014-04-03"
+      },
+      {
+        "titulo": "Blood Eagle",
+        "numeroEpisodio": 7,
+        "avaliacao": "8.5",
+        "dataLancamento": "2014-04-10"
+      },
+      {
+        "titulo": "Boneless",
+        "numeroEpisodio": 8,
+        "avaliacao": "N/A",
+        "dataLancamento": "2014-04-17"
+      },
+      {
+        "titulo": "The Choice",
+        "numeroEpisodio": 9,
+        "avaliacao": "8.6",
+        "dataLancamento": "2014-04-24"
+      },
+      {
+        "titulo": "The Lord\u0027s Prayer",
+        "numeroEpisodio": 10,
+        "avaliacao": "9.2",
+        "dataLancamento": "2014-05-01"
+      }
+    ]
+  },
+  {
+    "temporada": 3,
+    "episodios": [
+      {
+        "titulo": "Mercenary",
+        "numeroEpisodio": 1,
+        "avaliacao": "8.6",
+        "dataLancamento": "2015-02-19"
+      },
+      {
+        "titulo": "The Wanderer",
+        "numeroEpisodio": 2,
+        "avaliacao": "8.0",
+        "dataLancamento": "2015-02-26"
+      },
+      {
+        "titulo": "Warrior\u0027s Fate",
+        "numeroEpisodio": 3,
+        "avaliacao": "8.1",
+        "dataLancamento": "2015-03-05"
+      },
+      {
+        "titulo": "Scarred",
+        "numeroEpisodio": 4,
+        "avaliacao": "8.0",
+        "dataLancamento": "2015-03-12"
+      },
+      {
+        "titulo": "The Usurper",
+        "numeroEpisodio": 5,
+        "avaliacao": "8.3",
+        "dataLancamento": "2015-03-19"
+      },
+      {
+        "titulo": "Born Again",
+        "numeroEpisodio": 6,
+        "avaliacao": "8.6",
+        "dataLancamento": "2015-03-26"
+      },
+      {
+        "titulo": "Paris",
+        "numeroEpisodio": 7,
+        "avaliacao": "8.0",
+        "dataLancamento": "2015-04-02"
+      },
+      {
+        "titulo": "To the Gates!",
+        "numeroEpisodio": 8,
+        "avaliacao": "9.2",
+        "dataLancamento": "2015-04-09"
+      },
+      {
+        "titulo": "Breaking Point",
+        "numeroEpisodio": 9,
+        "avaliacao": "8.7",
+        "dataLancamento": "2015-04-16"
+      },
+      {
+        "titulo": "The Dead",
+        "numeroEpisodio": 10,
+        "avaliacao": "9.1",
+        "dataLancamento": "2015-04-23"
+      }
+    ]
+  },
+  {
+    "temporada": 4,
+    "episodios": [
+      {
+        "titulo": "A Good Treason",
+        "numeroEpisodio": 1,
+        "avaliacao": "8.4",
+        "dataLancamento": "2016-02-18"
+      },
+      {
+        "titulo": "Kill the Queen",
+        "numeroEpisodio": 2,
+        "avaliacao": "8.2",
+        "dataLancamento": "2016-02-25"
+      },
+      {
+        "titulo": "Mercy",
+        "numeroEpisodio": 3,
+        "avaliacao": "8.0",
+        "dataLancamento": "2016-03-03"
+      },
+      {
+        "titulo": "Yol",
+        "numeroEpisodio": 4,
+        "avaliacao": "8.0",
+        "dataLancamento": "2016-03-10"
+      },
+      {
+        "titulo": "Promised",
+        "numeroEpisodio": 5,
+        "avaliacao": "7.7",
+        "dataLancamento": "2016-03-17"
+      },
+      {
+        "titulo": "What Might Have Been",
+        "numeroEpisodio": 6,
+        "avaliacao": "7.9",
+        "dataLancamento": "2016-03-24"
+      },
+      {
+        "titulo": "The Profit and the Loss",
+        "numeroEpisodio": 7,
+        "avaliacao": "8.3",
+        "dataLancamento": "2016-03-31"
+      },
+      {
+        "titulo": "Portage",
+        "numeroEpisodio": 8,
+        "avaliacao": "8.1",
+        "dataLancamento": "2016-04-07"
+      },
+      {
+        "titulo": "Death All \u0027Round",
+        "numeroEpisodio": 9,
+        "avaliacao": "8.0",
+        "dataLancamento": "2016-04-14"
+      },
+      {
+        "titulo": "The Last Ship",
+        "numeroEpisodio": 10,
+        "avaliacao": "9.1",
+        "dataLancamento": "2016-04-21"
+      },
+      {
+        "titulo": "The Outsider",
+        "numeroEpisodio": 11,
+        "avaliacao": "8.0",
+        "dataLancamento": "2016-11-30"
+      },
+      {
+        "titulo": "Episode #4.11",
+        "numeroEpisodio": 11,
+        "avaliacao": "N/A",
+        "dataLancamento": "2016-07-07"
+      },
+      {
+        "titulo": "The Vision",
+        "numeroEpisodio": 12,
+        "avaliacao": "7.9",
+        "dataLancamento": "2016-12-07"
+      },
+      {
+        "titulo": "Two Journeys",
+        "numeroEpisodio": 13,
+        "avaliacao": "8.2",
+        "dataLancamento": "2016-12-14"
+      },
+      {
+        "titulo": "In the Uncertain Hour Before the Morning",
+        "numeroEpisodio": 14,
+        "avaliacao": "8.7",
+        "dataLancamento": "2016-12-21"
+      },
+      {
+        "titulo": "All His Angels",
+        "numeroEpisodio": 15,
+        "avaliacao": "9.6",
+        "dataLancamento": "2016-12-28"
+      },
+      {
+        "titulo": "Crossings",
+        "numeroEpisodio": 16,
+        "avaliacao": "8.5",
+        "dataLancamento": "2017-01-04"
+      },
+      {
+        "titulo": "Episode #4.17",
+        "numeroEpisodio": 17,
+        "avaliacao": "N/A",
+        "dataLancamento": "N/A"
+      },
+      {
+        "titulo": "The Great Army",
+        "numeroEpisodio": 17,
+        "avaliacao": "8.0",
+        "dataLancamento": "2017-01-11"
+      },
+      {
+        "titulo": "Revenge",
+        "numeroEpisodio": 18,
+        "avaliacao": "8.8",
+        "dataLancamento": "2017-01-18"
+      },
+      {
+        "titulo": "Episode #4.18",
+        "numeroEpisodio": 18,
+        "avaliacao": "N/A",
+        "dataLancamento": "N/A"
+      },
+      {
+        "titulo": "Episode #4.19",
+        "numeroEpisodio": 19,
+        "avaliacao": "N/A",
+        "dataLancamento": "N/A"
+      },
+      {
+        "titulo": "On the Eve",
+        "numeroEpisodio": 19,
+        "avaliacao": "8.9",
+        "dataLancamento": "2017-01-25"
+      },
+      {
+        "titulo": "The Reckoning",
+        "numeroEpisodio": 20,
+        "avaliacao": "8.8",
+        "dataLancamento": "2017-02-01"
+      },
+      {
+        "titulo": "Episode #4.20",
+        "numeroEpisodio": 20,
+        "avaliacao": "N/A",
+        "dataLancamento": "N/A"
+      }
+    ]
+  },
+  {
+    "temporada": 5,
+    "episodios": [
+      {
+        "titulo": "The Departed Part 1",
+        "numeroEpisodio": 1,
+        "avaliacao": "7.9",
+        "dataLancamento": "2017-11-29"
+      },
+      {
+        "titulo": "The Departed, Part 2",
+        "numeroEpisodio": 2,
+        "avaliacao": "7.9",
+        "dataLancamento": "2017-11-29"
+      },
+      {
+        "titulo": "Homeland",
+        "numeroEpisodio": 3,
+        "avaliacao": "8.5",
+        "dataLancamento": "2017-12-06"
+      },
+      {
+        "titulo": "The Plan",
+        "numeroEpisodio": 4,
+        "avaliacao": "7.8",
+        "dataLancamento": "2017-12-13"
+      },
+      {
+        "titulo": "The Prisoner",
+        "numeroEpisodio": 5,
+        "avaliacao": "8.1",
+        "dataLancamento": "2017-12-20"
+      },
+      {
+        "titulo": "The Message",
+        "numeroEpisodio": 6,
+        "avaliacao": "7.8",
+        "dataLancamento": "2017-12-27"
+      },
+      {
+        "titulo": "Full Moon",
+        "numeroEpisodio": 7,
+        "avaliacao": "7.5",
+        "dataLancamento": "2018-01-03"
+      },
+      {
+        "titulo": "The Joke",
+        "numeroEpisodio": 8,
+        "avaliacao": "8.5",
+        "dataLancamento": "2018-01-10"
+      },
+      {
+        "titulo": "A Simple Story",
+        "numeroEpisodio": 9,
+        "avaliacao": "7.4",
+        "dataLancamento": "2018-01-17"
+      },
+      {
+        "titulo": "Moments of Vision",
+        "numeroEpisodio": 10,
+        "avaliacao": "7.3",
+        "dataLancamento": "2018-01-24"
+      },
+      {
+        "titulo": "The Revelation",
+        "numeroEpisodio": 11,
+        "avaliacao": "7.6",
+        "dataLancamento": "2018-11-28"
+      },
+      {
+        "titulo": "Murder Most Foul",
+        "numeroEpisodio": 12,
+        "avaliacao": "N/A",
+        "dataLancamento": "2018-12-05"
+      },
+      {
+        "titulo": "A New God",
+        "numeroEpisodio": 13,
+        "avaliacao": "7.1",
+        "dataLancamento": "2018-12-12"
+      },
+      {
+        "titulo": "The Lost Moment",
+        "numeroEpisodio": 14,
+        "avaliacao": "7.1",
+        "dataLancamento": "2018-12-19"
+      },
+      {
+        "titulo": "Hell",
+        "numeroEpisodio": 15,
+        "avaliacao": "N/A",
+        "dataLancamento": "2018-12-26"
+      },
+      {
+        "titulo": "The Buddha",
+        "numeroEpisodio": 16,
+        "avaliacao": "7.6",
+        "dataLancamento": "2019-01-02"
+      },
+      {
+        "titulo": "The Most Terrible Thing",
+        "numeroEpisodio": 17,
+        "avaliacao": "6.9",
+        "dataLancamento": "2019-01-09"
+      },
+      {
+        "titulo": "Baldur",
+        "numeroEpisodio": 18,
+        "avaliacao": "7.5",
+        "dataLancamento": "2019-01-16"
+      },
+      {
+        "titulo": "What Happens in the Cave",
+        "numeroEpisodio": 19,
+        "avaliacao": "7.8",
+        "dataLancamento": "2019-01-23"
+      },
+      {
+        "titulo": "Ragnarok",
+        "numeroEpisodio": 20,
+        "avaliacao": "8.6",
+        "dataLancamento": "2019-01-30"
+      }
+    ]
+  },
+  {
+    "temporada": 6,
+    "episodios": [
+      {
+        "titulo": "New Beginnings",
+        "numeroEpisodio": 1,
+        "avaliacao": "7.4",
+        "dataLancamento": "2019-12-04"
+      },
+      {
+        "titulo": "The Prophet",
+        "numeroEpisodio": 2,
+        "avaliacao": "7.4",
+        "dataLancamento": "2019-12-04"
+      },
+      {
+        "titulo": "Ghosts, Gods and Running Dogs",
+        "numeroEpisodio": 3,
+        "avaliacao": "7.3",
+        "dataLancamento": "2019-12-11"
+      },
+      {
+        "titulo": "All the Prisoners",
+        "numeroEpisodio": 4,
+        "avaliacao": "7.4",
+        "dataLancamento": "2019-12-18"
+      },
+      {
+        "titulo": "The Key",
+        "numeroEpisodio": 5,
+        "avaliacao": "6.8",
+        "dataLancamento": "2020-01-01"
+      },
+      {
+        "titulo": "Death and the Serpent",
+        "numeroEpisodio": 6,
+        "avaliacao": "N/A",
+        "dataLancamento": "2020-01-08"
+      },
+      {
+        "titulo": "The Ice Maiden",
+        "numeroEpisodio": 7,
+        "avaliacao": "8.3",
+        "dataLancamento": "2020-01-15"
+      },
+      {
+        "titulo": "Valhalla Can Wait",
+        "numeroEpisodio": 8,
+        "avaliacao": "7.5",
+        "dataLancamento": "2020-01-22"
+      },
+      {
+        "titulo": "Resurrection",
+        "numeroEpisodio": 9,
+        "avaliacao": "N/A",
+        "dataLancamento": "2020-01-29"
+      },
+      {
+        "titulo": "The Best Laid Plans",
+        "numeroEpisodio": 10,
+        "avaliacao": "N/A",
+        "dataLancamento": "2020-02-05"
+      },
+      {
+        "titulo": "King of Kings",
+        "numeroEpisodio": 11,
+        "avaliacao": "8.9",
+        "dataLancamento": "2020-12-30"
+      },
+      {
+        "titulo": "All Change",
+        "numeroEpisodio": 12,
+        "avaliacao": "7.1",
+        "dataLancamento": "2020-12-30"
+      },
+      {
+        "titulo": "The Signal",
+        "numeroEpisodio": 13,
+        "avaliacao": "7.2",
+        "dataLancamento": "2020-12-30"
+      },
+      {
+        "titulo": "Lost Souls",
+        "numeroEpisodio": 14,
+        "avaliacao": "7.0",
+        "dataLancamento": "2020-12-30"
+      },
+      {
+        "titulo": "All at Sea",
+        "numeroEpisodio": 15,
+        "avaliacao": "7.3",
+        "dataLancamento": "2020-12-30"
+      },
+      {
+        "titulo": "The Final Straw",
+        "numeroEpisodio": 16,
+        "avaliacao": "7.1",
+        "dataLancamento": "2020-12-30"
+      },
+      {
+        "titulo": "The Raft of Medusa",
+        "numeroEpisodio": 17,
+        "avaliacao": "7.3",
+        "dataLancamento": "2020-12-30"
+      },
+      {
+        "titulo": "It\u0027s Only Magic",
+        "numeroEpisodio": 18,
+        "avaliacao": "7.5",
+        "dataLancamento": "2020-12-30"
+      },
+      {
+        "titulo": "The Lord Giveth...",
+        "numeroEpisodio": 19,
+        "avaliacao": "8.4",
+        "dataLancamento": "2020-12-30"
+      },
+      {
+        "titulo": "The Last Act",
+        "numeroEpisodio": 20,
+        "avaliacao": "7.8",
+        "dataLancamento": "2020-12-30"
+      }
+    ]
+  }
+]
