@@ -3,6 +3,7 @@ package br.com.eder.screenmatch2.principal;
 import br.com.eder.screenmatch2.model.DadosEpisodio;
 import br.com.eder.screenmatch2.model.DadosSerie;
 import br.com.eder.screenmatch2.model.DadosTemporada;
+import br.com.eder.screenmatch2.model.Episodio;
 import br.com.eder.screenmatch2.service.ConsumoApi;
 import br.com.eder.screenmatch2.service.ConverteDados;
 
@@ -33,16 +34,16 @@ public class Principal {
             temporadas.add(dadosTemporada);
 
         }
-        System.out.println("\nExibindo a lista de temporadas com forEach");
-        temporadas.forEach(System.out::println);
-        System.out.println("\nExibindo os titulos com for dentro de for");
-        List<DadosEpisodio> episodiosTemporada;
-        for (int i = 0; i < dadosSerie.totalTemporadas(); i++) {
-            episodiosTemporada = temporadas.get(i).episodios();
-            for (int j = 0; j < episodiosTemporada.size(); j++) {
-                System.out.println(episodiosTemporada.get(j).titulo());
-            }
-        }
+//        System.out.println("\nExibindo a lista de temporadas com forEach");
+//        temporadas.forEach(System.out::println);
+//        System.out.println("\nExibindo os titulos com for dentro de for");
+//        List<DadosEpisodio> episodiosTemporada;
+//        for (int i = 0; i < dadosSerie.totalTemporadas(); i++) {
+//            episodiosTemporada = temporadas.get(i).episodios();
+//            for (int j = 0; j < episodiosTemporada.size(); j++) {
+//                System.out.println(episodiosTemporada.get(j).titulo());
+//            }
+//        }
         System.out.println("\nExibindo a saida com forEach somente os titulos");
         temporadas.forEach(t -> t.episodios().forEach(e ->
                 System.out.println(e.titulo())));
@@ -72,6 +73,12 @@ public class Principal {
                 .sorted(Comparator.comparing(DadosEpisodio::avaliacao).reversed())
                 .limit(5)
                 .forEach(System.out::println);
+
+        List<Episodio> episodios = temporadas.stream()
+                .flatMap(t -> t.episodios().stream())
+                .map(d -> new Episodio(d.numeroEpisodio(), d)).collect(Collectors.toList());
+
+        episodios.forEach(System.out::println);
 
 
     }
