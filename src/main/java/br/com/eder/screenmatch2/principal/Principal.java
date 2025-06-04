@@ -17,7 +17,7 @@ public class Principal {
     private final String API_KEY = "&apikey=2389347b";
 
     public void exibeMenu() {
-        System.out.println("Digie o nome da série para consultar: ");
+        System.out.println("Digite o nome da série para consultar: ");
         var nomeSerie = leitura.nextLine();
         var json = consumoApi.obterDados(ENDERECO + nomeSerie.replace(" ", "+") + API_KEY);
         DadosSerie dadosSerie = conversor.obterDados(json, DadosSerie.class);
@@ -33,8 +33,9 @@ public class Principal {
             temporadas.add(dadosTemporada);
 
         }
+        System.out.println("\nExibindo a lista de temporadas com forEach");
         temporadas.forEach(System.out::println);
-
+        System.out.println("\nExibindo os titulos com for dentro de for");
         List<DadosEpisodio> episodiosTemporada;
         for (int i = 0; i < dadosSerie.totalTemporadas(); i++) {
             episodiosTemporada = temporadas.get(i).episodios();
@@ -42,7 +43,7 @@ public class Principal {
                 System.out.println(episodiosTemporada.get(j).titulo());
             }
         }
-
+        System.out.println("\nExibindo a saida com forEach somente os titulos");
         temporadas.forEach(t -> t.episodios().forEach(e ->
                 System.out.println(e.titulo())));
 
@@ -59,17 +60,18 @@ public class Principal {
         List<DadosEpisodio> dadosEpisodios = temporadas.stream()
                 .flatMap(t -> t.episodios().stream())
                 .collect(Collectors.toList());
+        System.out.println(dadosEpisodios);
         //.toList();
 //toList() devolve uma coleção imutavel, nao da pra add objetos
 //        dadosEpisodios.add(new DadosEpisodio("teste",3,"10","2025-02-12"));
 //        dadosEpisodios.forEach(System.out::println);
 
         System.out.println("\nTop 5 episódios");
-      dadosEpisodios.stream()
-              .filter(e->!e.avaliacao().equalsIgnoreCase("N/A"))
-              .sorted(Comparator.comparing(DadosEpisodio::avaliacao).reversed())
-              .limit(5)
-              .forEach(System.out::println);
+        dadosEpisodios.stream()
+                .filter(e -> !e.avaliacao().equalsIgnoreCase("N/A"))
+                .sorted(Comparator.comparing(DadosEpisodio::avaliacao).reversed())
+                .limit(5)
+                .forEach(System.out::println);
 
 
     }
