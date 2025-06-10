@@ -6,7 +6,12 @@ import br.com.eder.screenmatch2.model.DadosTemporada;
 import br.com.eder.screenmatch2.model.Episodio;
 import br.com.eder.screenmatch2.service.ConsumoApi;
 import br.com.eder.screenmatch2.service.ConverteDados;
+import ch.qos.logback.core.encoder.JsonEscapeUtil;
+import org.springframework.format.annotation.DateTimeFormat;
 
+import java.text.DateFormat;
+import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
 import java.util.*;
 import java.util.stream.Collectors;
 
@@ -79,6 +84,19 @@ public class Principal {
                 .map(d -> new Episodio(d.numeroEpisodio(), d)).collect(Collectors.toList());
 
         episodios.forEach(System.out::println);
+
+        System.out.println("\nApartir de que ano você deseja ver os episodios? ");
+        var ano = leitura.nextInt();
+        leitura.nextLine();
+        LocalDate dataBusca = LocalDate.of(ano, 1, 1);
+        DateTimeFormatter df = DateTimeFormatter.ofPattern("dd/MM/yyyy");
+        episodios.stream()
+                .filter(e -> e.getDataLancamento() != null && e.getDataLancamento().isAfter(dataBusca))
+                .forEach(e -> System.out.println(
+                        " Temporada: " + e.getTemporada() +
+                        " Episódio: " + e.getTitulo() +
+                        " Data de Lançamento: " + e.getDataLancamento().format(df)
+                ));
 
 
     }
