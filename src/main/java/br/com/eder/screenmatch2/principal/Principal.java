@@ -27,7 +27,7 @@ public class Principal {
         var nomeSerie = leitura.nextLine();
         var json = consumoApi.obterDados(ENDERECO + nomeSerie.replace(" ", "+") + API_KEY);
         DadosSerie dadosSerie = conversor.obterDados(json, DadosSerie.class);
-      //  System.out.println(dadosSerie);
+        //  System.out.println(dadosSerie);
         //ENDERECO + nomeSerie.replace(" ","+")+API_KEY;
         //"https://www.omdbapi.com/?t=vikings&apikey=2389347b"
         List<DadosTemporada> temporadas = new ArrayList<>();
@@ -72,23 +72,35 @@ public class Principal {
 //        dadosEpisodios.add(new DadosEpisodio("teste",3,"10","2025-02-12"));
 //        dadosEpisodios.forEach(System.out::println);
 
-        System.out.println("\nTop 10 episódios");
-        dadosEpisodios.stream()
-                .filter(e -> !e.avaliacao().equalsIgnoreCase("N/A"))
-                .peek(e-> System.out.println("Primeiro filtro(N/A) " + e))
-                .sorted(Comparator.comparing(DadosEpisodio::avaliacao).reversed())
-                .peek(e-> System.out.println("Ordenação " + e))
-                .limit(10)
-                .peek(e-> System.out.println("Limite " + e))
-                .map(e->e.titulo().toUpperCase())
-                .peek(e-> System.out.println("Mapeamento " + e))//função peek para debugar " uma olhada no que esta acontecendo nesse ponto"
-                .forEach(System.out::println);
+//        System.out.println("\nTop 10 episódios");
+//        dadosEpisodios.stream()
+//                .filter(e -> !e.avaliacao().equalsIgnoreCase("N/A"))
+//                .peek(e-> System.out.println("Primeiro filtro(N/A) " + e))
+//                .sorted(Comparator.comparing(DadosEpisodio::avaliacao).reversed())
+//                .peek(e-> System.out.println("Ordenação " + e))
+//                .limit(10)
+//                .peek(e-> System.out.println("Limite " + e))
+//                .map(e->e.titulo().toUpperCase())
+//                .peek(e-> System.out.println("Mapeamento " + e))//função peek para debugar " uma olhada no que esta acontecendo nesse ponto"
+//                .forEach(System.out::println);
 
-//        List<Episodio> episodios = temporadas.stream()
-//                .flatMap(t -> t.episodios().stream())
-//                .map(d -> new Episodio(d.numeroEpisodio(), d)).collect(Collectors.toList());
-//
-//        episodios.forEach(System.out::println);
+        List<Episodio> episodios = temporadas.stream()
+                .flatMap(t -> t.episodios().stream())
+                .map(d -> new Episodio(d.numeroEpisodio(), d)).collect(Collectors.toList());
+
+        episodios.forEach(System.out::println);
+
+        System.out.println("Digite um trecho de um titulo do episodio desjado: ");
+        var trechoTitulo = leitura.nextLine();
+        Optional<Episodio> episodioBuscado = episodios.stream()
+                .filter(e -> e.getTitulo().toUpperCase().contains(trechoTitulo.toUpperCase()))
+                .findFirst();
+        if (episodioBuscado.isPresent()) {
+            System.out.println("Episodio encontrado!");
+            System.out.println("Temporada: " + episodioBuscado.get().getTemporada());
+        } else {
+            System.out.println("Episódio não encontrado!");
+        }
 
 //        System.out.println("\nApartir de que ano você deseja ver os episodios? ");
 //        var ano = leitura.nextInt();
