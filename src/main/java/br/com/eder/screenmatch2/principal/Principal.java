@@ -27,7 +27,7 @@ public class Principal {
         var nomeSerie = leitura.nextLine();
         var json = consumoApi.obterDados(ENDERECO + nomeSerie.replace(" ", "+") + API_KEY);
         DadosSerie dadosSerie = conversor.obterDados(json, DadosSerie.class);
-        System.out.println(dadosSerie);
+      //  System.out.println(dadosSerie);
         //ENDERECO + nomeSerie.replace(" ","+")+API_KEY;
         //"https://www.omdbapi.com/?t=vikings&apikey=2389347b"
         List<DadosTemporada> temporadas = new ArrayList<>();
@@ -49,9 +49,9 @@ public class Principal {
 //                System.out.println(episodiosTemporada.get(j).titulo());
 //            }
 //        }
-        System.out.println("\nExibindo a saida com forEach somente os titulos");
-        temporadas.forEach(t -> t.episodios().forEach(e ->
-                System.out.println(e.titulo())));
+//        System.out.println("\nExibindo a saida com forEach somente os titulos");
+//        temporadas.forEach(t -> t.episodios().forEach(e ->
+//                System.out.println(e.titulo())));
 
 //        List<String> nomes = Arrays.asList("jonas","Jacque","Iasmin","Paulo","Rodrigo","Nico","Sarah Connor","Eder");
 //        nomes.stream().sorted().forEach(System.out::println);//ordenando a lista no fluxo stream
@@ -72,32 +72,37 @@ public class Principal {
 //        dadosEpisodios.add(new DadosEpisodio("teste",3,"10","2025-02-12"));
 //        dadosEpisodios.forEach(System.out::println);
 
-        System.out.println("\nTop 5 episódios");
+        System.out.println("\nTop 10 episódios");
         dadosEpisodios.stream()
                 .filter(e -> !e.avaliacao().equalsIgnoreCase("N/A"))
+                .peek(e-> System.out.println("Primeiro filtro(N/A) " + e))
                 .sorted(Comparator.comparing(DadosEpisodio::avaliacao).reversed())
-                .limit(5)
+                .peek(e-> System.out.println("Ordenação " + e))
+                .limit(10)
+                .peek(e-> System.out.println("Limite " + e))
+                .map(e->e.titulo().toUpperCase())
+                .peek(e-> System.out.println("Mapeamento " + e))//função peek para debugar " uma olhada no que esta acontecendo nesse ponto"
                 .forEach(System.out::println);
 
-        List<Episodio> episodios = temporadas.stream()
-                .flatMap(t -> t.episodios().stream())
-                .map(d -> new Episodio(d.numeroEpisodio(), d)).collect(Collectors.toList());
+//        List<Episodio> episodios = temporadas.stream()
+//                .flatMap(t -> t.episodios().stream())
+//                .map(d -> new Episodio(d.numeroEpisodio(), d)).collect(Collectors.toList());
+//
+//        episodios.forEach(System.out::println);
 
-        episodios.forEach(System.out::println);
-
-        System.out.println("\nApartir de que ano você deseja ver os episodios? ");
-        var ano = leitura.nextInt();
-        leitura.nextLine();
-        LocalDate dataBusca = LocalDate.of(ano, 1, 1);
-        DateTimeFormatter df = DateTimeFormatter.ofPattern("dd/MM/yyyy");
-        episodios.stream()
-                .filter(e -> e.getDataLancamento() != null && e.getDataLancamento().isAfter(dataBusca))
-                .forEach(e -> System.out.println(
-                        " Temporada: " + e.getTemporada() +
-                        " Episódio: " + e.getTitulo() +
-                        " Data de Lançamento: " + e.getDataLancamento().format(df)
-                ));
-
+//        System.out.println("\nApartir de que ano você deseja ver os episodios? ");
+//        var ano = leitura.nextInt();
+//        leitura.nextLine();
+//        LocalDate dataBusca = LocalDate.of(ano, 1, 1);
+//        DateTimeFormatter df = DateTimeFormatter.ofPattern("dd/MM/yyyy");
+//        episodios.stream()
+//                .filter(e -> e.getDataLancamento() != null && e.getDataLancamento().isAfter(dataBusca))
+//                .forEach(e -> System.out.println(
+//                        " Temporada: " + e.getTemporada() +
+//                        " Episódio: " + e.getTitulo() +
+//                        " Data de Lançamento: " + e.getDataLancamento().format(df)
+//                ));
+//
 
     }
 }
