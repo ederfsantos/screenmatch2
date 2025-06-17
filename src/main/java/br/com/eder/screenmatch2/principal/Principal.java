@@ -75,13 +75,13 @@ public class Principal {
         System.out.println("\nTop 5 episódios");
         dadosEpisodios.stream()
                 .filter(e -> !e.avaliacao().equalsIgnoreCase("N/A"))
-                .peek(e-> System.out.println("Primeiro filtro(N/A) " + e))
+                .peek(e -> System.out.println("Primeiro filtro(N/A) " + e))
                 .sorted(Comparator.comparing(DadosEpisodio::avaliacao).reversed())
-                .peek(e-> System.out.println("Ordenação " + e))
+                .peek(e -> System.out.println("Ordenação " + e))
                 .limit(5)
-                .peek(e-> System.out.println("Limite " + e))
-                .map(e->e.titulo().toUpperCase())
-                .peek(e-> System.out.println("Mapeamento " + e))//função peek para debugar " uma olhada no que esta acontecendo nesse ponto"
+                .peek(e -> System.out.println("Limite " + e))
+                .map(e -> e.titulo().toUpperCase())
+                .peek(e -> System.out.println("Mapeamento " + e))//função peek para debugar " uma olhada no que esta acontecendo nesse ponto"
                 .forEach(System.out::println);
 
         List<Episodio> episodios = temporadas.stream()
@@ -117,12 +117,19 @@ public class Principal {
 //                ));
 //
 
-        Map<Integer,Double> avaliacoesPortemporada = episodios.stream()
-                .filter(e->e.getAvaliacao() > 0.0)
+        Map<Integer, Double> avaliacoesPortemporada = episodios.stream()
+                .filter(e -> e.getAvaliacao() > 0.0)
                 .collect(Collectors.groupingBy(Episodio::getTemporada,
                         Collectors.averagingDouble(Episodio::getAvaliacao)));
 
         System.out.println(avaliacoesPortemporada);
+        //Classe para dados estatiscos
+        DoubleSummaryStatistics est = episodios.stream()
+                .filter(e -> e.getAvaliacao() > 0.0)
+                .collect(Collectors.summarizingDouble(Episodio::getAvaliacao));
+
+        System.out.println("Dados Estatisticos\nMédia: " + String.format("%.2f",est.getAverage()) + "\nMelhor episódio: " + est.getMax() + "\nPior episódio: "
+                           + est.getMin() + "\nQuantidade: " + est.getCount());
 
 
     }
